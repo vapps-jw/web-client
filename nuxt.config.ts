@@ -8,6 +8,13 @@ export default defineNuxtConfig({
         pageTransition: { name: 'page', mode: 'out-in' },
         head: {
             title: 'VAPPS',
+            link: [
+                {
+                    rel: 'icon',
+                    type: 'image/x-icon',
+                    href: '/favicon.ico'
+                },
+            ]
         },
     },
 })
