@@ -12,7 +12,7 @@
             </v-btn>
             <v-col class="text-center mt-4"
                    cols="12">
-                {{ new Date().getFullYear() }} <strong>Vapps</strong>
+                {{ new Date().getFullYear() }} - <strong>vapps.pl</strong>
             </v-col>
         </v-row>
     </v-footer>
@@ -21,8 +21,6 @@
 <script setup lang="ts">
 
 const links = [
-    'Strona Główna',
-    'Kontakt',
     'Polityka Prywatności',
     'Źródła',
 ]

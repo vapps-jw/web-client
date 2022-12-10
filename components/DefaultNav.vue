@@ -29,7 +29,8 @@
 const drawer = ref<boolean>()
 const links = [
     ['mdi-home', 'Strona Główna', "/"],
-    ['mdi-account', 'O Nas', "/about"],
+    ['mdi-office-building', 'O Nas', "/about"],
+    ['mdi-email', 'Kontakt', "/contact"],
 ]
 
 </script>
