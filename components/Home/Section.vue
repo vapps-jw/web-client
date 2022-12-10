@@ -35,7 +35,6 @@ const props = defineProps<OptionProps>()
     </v-parallax>
 </template>
 
-
 <style scoped>
 
 </style>

@@ -5,3 +5,8 @@
     font-display: swap;
     src: url('./fonts/Roboto-Light.ttf') format('truetype');
 }
+
+.vapps-link-clear {
+    text-decoration: none;
+    color: inherit;
+}

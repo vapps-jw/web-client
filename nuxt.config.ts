@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     app: {
         pageTransition: { name: 'page', mode: 'out-in' },
         head: {
-            title: 'VAPPS',
+            title: 'Vapps',
             link: [
                 {
                     rel: 'icon',

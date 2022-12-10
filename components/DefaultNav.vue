@@ -6,7 +6,7 @@
             <v-list>
                 <NuxtLink v-for="[icon, text, link] in links"
                           :key="icon"
-                          style="text-decoration: none; color: inherit;"
+                          class="vapps-link-clear"
                           :to="link">
                     <v-list-item>
                         <template v-slot:prepend>
@@ -20,6 +20,12 @@
 
         <v-app-bar>
             <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
+            <v-spacer></v-spacer>
+            <a href="https://github.com/vapps-jw"
+               class="vapps-link-clear">
+                <v-btn variant="text"
+                       icon="mdi-github"></v-btn>
+            </a>
         </v-app-bar>
     </div>
 </template>
