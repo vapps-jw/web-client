@@ -10,10 +10,16 @@
 
         <v-col class="d-flex justify-center align-center">
             <v-expansion-panels variant="accordion">
-                <v-expansion-panel v-for="i in 3"
-                                   :key="i"
-                                   title="test1"
-                                   text="asasa"></v-expansion-panel>
+                <v-expansion-panel title="Ile to kosztuje?"
+                                   text="lodsadasdasdassada"></v-expansion-panel>
+                <v-expansion-panel title="Czy wycena jest darmowa?"
+                                   text="lodsadasdasdassada"></v-expansion-panel>
+                <v-expansion-panel title="Jak wygląda utrzymanie takiej aplikacji?"
+                                   text="lodsadasdasdassada"></v-expansion-panel>
+                <v-expansion-panel title="Jakie aplikacje tworzymy?"
+                                   text="lodsadasdasdassada"></v-expansion-panel>
+                <v-expansion-panel title="Jak się kontaktować?"
+                                   text="lodsadasdasdassada"></v-expansion-panel>
             </v-expansion-panels>
         </v-col>
     </v-container>

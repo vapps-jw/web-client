@@ -19,7 +19,9 @@
         </v-navigation-drawer>
 
         <v-app-bar>
+
             <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
+            <v-toolbar-title>Application</v-toolbar-title>
             <v-spacer></v-spacer>
             <a href="https://github.com/vapps-jw"
                class="vapps-link-clear">
@@ -31,6 +33,11 @@
 </template>
 
 <script setup lang="ts">
+
+
+
+
+
 
 const drawer = ref<boolean>()
 const links = [
