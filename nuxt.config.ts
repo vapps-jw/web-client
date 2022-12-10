@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     },
     app: {
         buildAssetsDir: '/assets/',
-        // pageTransition: { name: 'page', mode: 'out-in' },
+        pageTransition: { name: 'page', mode: 'out-in' },
         head: {
             title: 'VAPPS',
         },
