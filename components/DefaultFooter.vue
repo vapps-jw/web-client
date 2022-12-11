@@ -14,6 +14,10 @@
                    cols="12">
                 {{ new Date().getFullYear() }} - <strong>vapps.pl</strong>
             </v-col>
+            <v-col class="text-center mt-1 text-caption"
+                   cols="12">
+                <p class="text-blue-darken-4">pictures by / Freepik</p>
+            </v-col>
         </v-row>
     </v-footer>
 </template>
