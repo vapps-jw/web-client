@@ -30,7 +30,7 @@ const props = defineProps<OptionProps>()
                        sm="6"
                        class="d-flex justify-center align-center">
                     <v-sheet class="mx-2 bg-transparent">
-                        <p class="text-subtitle-2 text-center"
+                        <p class="text-subtitle-2 text-center px-5"
                            :class="fontColor"> {{ props.description }}</p>
                     </v-sheet>
                 </v-col>

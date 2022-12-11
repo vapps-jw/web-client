@@ -33,7 +33,7 @@
         <HomeSection title="AUTOMATYZACJA PROCESÓW"
                      :total-height="sectionHeight"
                      font-color="text-white"
-                     description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis repudiandae, repellat ex error vel quidem quisquam facere dolorem id aspernatur."
+                     description="Doradzamy jak przeprowadzić cyfryzację i automatyzację istniejących procesów"
                      image="/homePage/automation-blurred.png" />
         <HomeSection title="CLOUD DEVELOPMENT"
                      :total-height="sectionHeight"
