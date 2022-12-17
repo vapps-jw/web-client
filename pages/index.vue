@@ -12,7 +12,7 @@
                      description="Obsługujemy pełny cykl rozwoju oprogramowania począwszy od zbierania wymagań, poprzez planowanie, realizację i wykonanie, aż do przekazania Klientowi oraz późniejeszego utrzymywania i wsparcia"
                      image="/homePage/process-blurred.png" />
 
-        <HomeSection title="SZTUCANA INTELIGENCJA"
+        <HomeSection title="SZTUCZNA INTELIGENCJA"
                      :total-height="sectionHeight"
                      font-color="text-white"
                      description="Tworzymy modele matematyczne pozwalające wyciągać nowe wnioski z posiadnych danych, jak również przewidywaćprzyszłe trendy"
