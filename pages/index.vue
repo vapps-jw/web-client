@@ -4,7 +4,7 @@
                      :total-height="sectionHeight"
                      font-color="text-white"
                      description="Specjalizujemy się w tworzeniu szerokiej gamy aplikacji, od rozwiązań desktopowych po webowe i mobilne"
-                     image="/homePage/earth-blurred.PNG" />
+                     image="/homePage/earth-blurred.png" />
 
         <HomeSection title="TWORZENIE OPROGRAMOWANIA"
                      :total-height="sectionHeight"
