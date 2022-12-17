@@ -1,18 +1,5 @@
 <template>
-    <div>
+    <v-container>
         <AboutTechnologySection />
-    </div>
+    </v-container>
 </template>
-
-<script setup lang="ts">
-
-
-
-
-
-
-</script>
-
-<style scoped>
-
-</style>

@@ -7,7 +7,6 @@
             <div class="text-subtitle-2">Odpowiedzi na często zadawane pytania</div>
         </div>
 
-
         <v-col class="d-flex justify-center align-center">
             <v-expansion-panels variant="accordion">
                 <v-expansion-panel title="Ile to kosztuje?"

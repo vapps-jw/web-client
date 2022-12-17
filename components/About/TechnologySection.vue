@@ -11,49 +11,49 @@
             <v-col cols="12"
                    sm="4">
                 <AboutTechnologyCard title=".NET"
-                                     subtitle="Multi-purpose"
+                                     subtitle="Narzędzia do tworzenia aplikacji"
                                      link="https://dotnet.microsoft.com/en-us/"
-                                     description="Szybki i nowoczesny framework do tworzenia aplikacji"
+                                     description="Wywodzący się od Microsoft szybki i nowoczesny framework do tworzenia aplikacji"
                                      image="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
             </v-col>
             <v-col cols="12"
                    sm="4">
-                <AboutTechnologyCard title="Nuxt"
-                                     subtitle="Front-end"
+                <AboutTechnologyCard title="Nuxt 3"
+                                     subtitle="Narzędzia do tworzenia aplikacji"
                                      link="https://nuxt.com/"
-                                     description="test"
+                                     description="Jedna z najnowocześniejszych bibliotek do tworzenia aplikacji webowych"
                                      image="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" />
             </v-col>
             <v-col cols="12"
                    sm="4">
-                <AboutTechnologyCard title="Vuetify"
-                                     subtitle="Front-end"
+                <AboutTechnologyCard title="Vuetify 3"
+                                     subtitle="Narzędzia do tworzenia aplikacji"
                                      link="https://next.vuetifyjs.com/en/"
-                                     description="test"
+                                     description="Najnowsza wersja biblioteki komponentów do szybkiego tworzenia aplikacji webowyck"
                                      image="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-300.png" />
             </v-col>
             <v-col cols="12"
                    sm="4">
                 <AboutTechnologyCard title="Postgresql"
-                                     subtitle="Mature Dataabse"
+                                     subtitle="Bazy Danych"
                                      link="https://www.postgresql.org/"
-                                     description="test"
+                                     description="Sprawdzona i solidna baza danych"
                                      image="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
             </v-col>
             <v-col cols="12"
                    sm="4">
                 <AboutTechnologyCard title="Kubernetes"
-                                     subtitle="Cloud"
+                                     subtitle="Chmura"
                                      link="https://kubernetes.io/"
-                                     description="test"
+                                     description="Otwarta platforma do zarządzania, automatyzacji i skalowania aplikacji kontenerowych"
                                      image="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" />
             </v-col>
             <v-col cols="12"
                    sm="4">
                 <AboutTechnologyCard title="Docker"
-                                     subtitle="Cloud"
+                                     subtitle="Chmura"
                                      link="https://www.docker.com/"
-                                     description="test"
+                                     description="Otwarte oprogramowanie służące do realizacji wirtualizacji na poziomie systemu operacyjnego"
                                      image="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
             </v-col>
 
