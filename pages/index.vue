@@ -15,7 +15,7 @@
         <HomeSection title="SZTUCZNA INTELIGENCJA"
                      :total-height="sectionHeight"
                      font-color="text-white"
-                     description="Tworzymy modele matematyczne pozwalające wyciągać nowe wnioski z posiadnych danych, jak również przewidywaćprzyszłe trendy"
+                     description="Tworzymy modele matematyczne pozwalające wyciągać nowe wnioski z posiadnych danych, jak również przewidywać przyszłe trendy"
                      image="/homePage/neural-network-blurred.png" />
 
         <HomeSection title="DORADZTWO TECHNOLOGICZNE"

@@ -12,7 +12,7 @@
                 <v-expansion-panel title="Ile to kosztuje?"
                                    text="Wycena oraz wstepna konsultacja są zawsze darmowe. Ostarczny koszt projektu zostaje ustalony po zebraniu wymagań oraz uzgodnieniu szczegółów dotyczących wykonania zadania"></v-expansion-panel>
                 <v-expansion-panel title="Czy wycena jest darmowa?"
-                                   text="Tak, wstepna konsulatacja oraz wycena zawsze są darmowe"></v-expansion-panel>
+                                   text="Tak, wstepna konsultacja oraz wycena zawsze są darmowe"></v-expansion-panel>
                 <v-expansion-panel title="Jak wygląda utrzymanie takiej aplikacji?"
                                    text="Oferujemy wsparcie na każdym etapie cyklu życia projektu. Oznacza to że możemy zaoferować pełne wsparcie począwszy od hostingu po nowe funkcjonalności. Nowe funkcjonalności wyceniane są indywidualnie po darmowej konsultacji i zebraniu wymagań."></v-expansion-panel>
                 <v-expansion-panel title="Jakie aplikacje tworzymy?"
