@@ -53,7 +53,6 @@
 <script setup lang="ts">
 
 const drawer = ref<boolean>()
-const rail = ref<boolean>(true)
 
 const links = [
     ['mdi-home', 'Strona Główna', "/"],
@@ -61,9 +60,4 @@ const links = [
     ['mdi-email', 'Kontakt', "/contact"],
 ]
 
-
 </script>
-
-<style scoped>
-
-</style>

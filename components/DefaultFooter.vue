@@ -26,13 +26,10 @@
 
 <script setup lang="ts">
 
+// todo: add this later
 const links = [
     'Polityka Prywatności',
     'Źródła',
 ]
 
 </script>
-
-<style scoped>
-
-</style>
