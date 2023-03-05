@@ -15,10 +15,8 @@ jobs:
           node-version: "18"
       - name: Install Dependencies
         run: npm install
-        working-directory: web-client
       - name: Install Dependencies
         run: npm run build
-        working-directory: web-client
       - name: Push to Linode
         run: |
           echo "$ssh_key" > ~/ssh_key
