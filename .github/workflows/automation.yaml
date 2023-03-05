@@ -21,7 +21,7 @@ jobs:
         run: |
           echo "$ssh_key" > ~/ssh_key
           chmod 600 ~/ssh_key
-          rsync -e "ssh -p "$target_port" -i ~/ssh_key -o StrictHostKeyChecking=no" -avzr ./web-client/ "$user"@"$target_ip":/var/web-apps/vapps-client
+          rsync -e "ssh -p "$target_port" -i ~/ssh_key -o StrictHostKeyChecking=no" -avzr ./web-client/ "$user"@"$target_ip":/var/web-apps/vapps-web-client
         env:
           ssh_key: ${{ secrets.GIT_ACTIONS_SSH }}
           user: ${{ secrets.GIT_ACTIONS_USER }}
